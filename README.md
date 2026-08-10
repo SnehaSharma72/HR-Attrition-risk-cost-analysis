@@ -44,7 +44,7 @@ IBM HR Analytics Employee Attrition & Performance dataset (Kaggle) — 1,470 emp
 - Framing attrition in ₹ cost rather than % rate reframes the business conversation from "is this normal" to "is this affordable."
 
 ## 🖼️ Dashboard Screenshots
-See `/screenshots` folder for all 3 Power BI pages.
+See `/screenshots- page1_overview (2).png` folder for all 3 Power BI pages.
 
 ## 🔧 Tools Used
 Excel (data cleaning, feature engineering, pivot tables) · Power BI (DAX, dashboard design) · DAX (CALCULATE, DIVIDE, filter context measures)
